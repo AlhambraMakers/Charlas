@@ -6,7 +6,7 @@ Repositorio dedicado a compartir la información utilizada en las charlas, works
 
 ## Listado
  
-* [[23/11/17] - Fabricación de la IceZUM Alhambra]()
+* [[23/11/17] - Fabricación de la IceZUM Alhambra](https://github.com/AlhambraMakers/Charlas/tree/master/Eladio-Delgado/2017-11-23%20Charla%20Alhambra%20Makers)
 
 * [[09/11/17] - Introducción al diseño de PCBs con KiCAD](https://github.com/fgcoca/Chats/tree/master/9-11-17-Th-Kicad "Kicad: Jueves 9 de noviembre de 2017 en el aula 001 del IES Virgen de las Nieves")
 
