@@ -1,4 +1,3 @@
-![Mareldem Technologies](https://github.com/AlhambraMakers/Charlas/blob/master/Eladio-Delgado/Images/Mareldem.png)
 ## Título
 
 Charla sobre los procesos implicados en la fabricación de la [IceZUM Alhambra](http://joedicastro.com "IceZUM Alhambra") en Mareldem Technologies.
@@ -34,7 +33,7 @@ Organizada por el grupo [Alhambra Makers](https://github.com/AlhambraMakers) y e
 
 Eladio Delgado Mingorance Engineering Director en Mareldem Technologies
 
-Mareldem Technologies   ETSIT - UPM
+![Mareldem Technologies](https://github.com/AlhambraMakers/Charlas/blob/master/Eladio-Delgado/Images/Mareldem.png)
 
 Pinos del Valle
 
