@@ -30,6 +30,19 @@ Organizada por el grupo [Alhambra Makers](https://github.com/AlhambraMakers) y e
 
     - [Fotos](https://github.com/AlhambraMakers/Charlas/tree/master/Eladio-Delgado/2017-11-23%20Charla%20Alhambra%20Makers/Fotos)
 
+## Autor
+
+Eladio Delgado Mingorance Engineering Director en Mareldem Technologies
+
+Mareldem Technologies   ETSIT - UPM
+
+Pinos del Valle
+
+Granada
+
+España 
+
+
 ## **License**
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
