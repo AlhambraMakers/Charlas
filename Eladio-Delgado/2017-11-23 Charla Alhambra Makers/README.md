@@ -1,6 +1,6 @@
 ## Título
 
-Charla sobre los procesos implicados en la fabricación de la [IceZUM Alhambra](http://joedicastro.com "IceZUM Alhambra") en Mareldem Technologies.
+Charla sobre los procesos implicados en la fabricación de la [IceZUM Alhambra](https://github.com/AlhambraMakers/Charlas/blob/master/Eladio-Delgado/2017-11-23%20Charla%20Alhambra%20Makers/Presentacion/2017-11-23_Fabricacion-Alhambra.odp) en Mareldem Technologies.
 
 Para poder disfrutar de una de estas maravillas entra en https://alhambrabits.com/
 
